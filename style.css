@@ -18,7 +18,7 @@ p{
     font-size:35px ;
 }
 #paragraph3{
-font-size: 40px;
+font-size: 35px;
 }
 
 h3 {
@@ -67,17 +67,17 @@ a:hover {
 .heading1 {
     background-color:#d7d7d7 ;
     padding-top: 25px;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
 }
 
 .section1 {
     background-color: #ffeaea;
     padding-top: 25px;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
 }
 
 .article1 {
     background-color: #eaf9ff;
     padding-top: 25px;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
 }
